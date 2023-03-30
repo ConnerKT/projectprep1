@@ -25,10 +25,10 @@ Conner
 4. Knowing that in order to get work done the people will have to be here and prepared to work.
 
 Georleshia
-1.
-2.
-3.
-4.
+1. Some of my key strenghts include, my leadership and delegation skills, organization and planning, and strong work ethic.
+2. I will best utilize my strenghts in this project by helping my peers stay organized and provide feedback to help the group succeed. 
+3. During this project I want to be more empathetic and show affective leadership abilitiles. 
+4. To approach the day-to-day work, I will make sure i communicate daily any ideas presented and making sure each member highlights their part of the code to keep down confusion.
 
 Alexia
 1. My team mates shows accountability and persistance and also communicate well.
@@ -63,11 +63,11 @@ Conner
 5. Contact instructors and tell them that they aren't doing their work, you should do your work if given.
 
 Georleshia
-1.
-2.
-3.
-4.
-5.
+1. Our group will practice a team-building exercise. This can help relationships to build and small conflict to be addressed.
+2. Team members contribute more and work harder for any project if they feel like ownership in its success or failure to communicate openly and honestly.
+3. This is where communication comes in, making sure that we are available to text or slack when needed. 
+4. By speaking with them concerning their part of the group and remebering they are not alone and if they need assistance its okay to ask.
+5. Speak with another instructor to try and smooth out the process.
 
 Alexia
 1. I will prefer to have a conversation that consist of the problem, how it made you feel or what you think and add a solution behind it.
@@ -108,13 +108,13 @@ Conner
 7. To welcome all ideas no matter how big or small, and to enable each other to have a safe zone.
 
 Georleshia
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+1. I have open availability. As long as you reach out before 8pm on weekdays or after 8am on weekends.
+2. I feel like using slack and group messaging will be the most effective to complete the project and communicate.
+3. I will take breaks when i feel overwhelemed or when the group is becoming stressed out.
+4.If I seem to start falling behind , I will make sure i communicate with the team that i need help or also let my instructor know i have fell behind.
+5. Understanding each other's time and respecting boundaries as far as when to communicate after the respescted time we informed each other of.
+6. To make sure everyone's voice is heard I will make sure i ask each partner their outlook on the questions and how they feel about the work so far.
+7. Be open to heaing all ideas, and taking apart of the persons suggestions.
 
 Alexia
 1. My hours are scattered so when ever you call or text I will try to get back to you.
@@ -148,8 +148,8 @@ Conner
 2. We will communicate over text to let us contact eachother and split the work well.
 
 Georleshia
-1.
-2.
+1. By giving the same amount of task to each person and being fair as far as completion goes.
+2. We will highlight accountability to make sure everyone knows to value the group's time.
 
 
 Alexia
