@@ -37,7 +37,7 @@ Alexia
 4.
 
 Kat
-1.
+1. My key strenghts are curiosity of all things and always wanting to learn more, being understanding and considerate of others, so I always am willing to hear other's ideas and feelings on things.
 2.
 3.
 4.
