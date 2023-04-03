@@ -31,10 +31,10 @@ Georleshia
 4. To approach the day-to-day work, I will make sure i communicate daily any ideas presented and making sure each member highlights their part of the code to keep down confusion.
 
 Alexia
-1.
-2.
-3.
-4.
+1. My team mates shows accountability and persistance and also communicate well.
+2. For success its important to have these skills even when you are not as motivated you are surrounded by people who are and can remind you.
+3. I personally am working on being more consistant.
+4. Be prepared and communicate with others
 
 Kat
 1. My key strenghts are curiosity of all things and always wanting to learn more, and being empathetic, understanding, and considerate of others, so I always am willing to hear other's ideas and feelings on things.
@@ -70,11 +70,11 @@ Georleshia
 5. Speak with another instructor to try and smooth out the process.
 
 Alexia
-1.
-2.
-3.
-4.
-5.
+1. I will prefer to have a conversation that consist of the problem, how it made you feel or what you think and add a solution behind it.
+2. I will communicate the issue explain how this is a group project and ask the why behind it and collectively come up with a better solution.
+3. Keep communication open and zoom.
+4. I will have a respectful quick check-in
+5. notify the instructor if need be.
 
 Kat
 1. Communicate Efficiently and help each other out, leave no man behind. We're in this together.
@@ -117,13 +117,13 @@ Georleshia
 7. Be open to heaing all ideas, and taking apart of the persons suggestions.
 
 Alexia
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+1. My hours are scattered so when ever you call or text I will try to get back to you.
+2. slack, whatsApp, message, FaceTime
+3. I'll take breaks as needed. I can work for long periods of time and also work in short increments to ensure Im not getting destracted.
+4. I will ask for help if needed and work it out. I chose to be here so its up to me to do the work to remain here.
+5. I will contact them on every communication app I have them on if there's no respones to the others.
+6. Ask questions
+7. Ask if they feel welcomed and give them space for them to express their ideas and reassure that this is a place with no judgement and respectfully hold others accountable.
 
 Kat
 1. You can contact me anywhere at anytime. I will respond as fast as I can when I get the chance.
@@ -153,8 +153,8 @@ Georleshia
 
 
 Alexia
-1.
-2.
+1. Base the assignments on peoples strenghts and growth areas and communicate that we will work evenly.
+2. We can be in a group chat on a platform that works best for all of us.
 
 
 Kat
