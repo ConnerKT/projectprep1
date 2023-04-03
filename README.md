@@ -37,10 +37,10 @@ Alexia
 4.
 
 Kat
-1. My key strenghts are curiosity of all things and always wanting to learn more, being understanding and considerate of others, so I always am willing to hear other's ideas and feelings on things.
-2.
-3.
-4.
+1. My key strenghts are curiosity of all things and always wanting to learn more, and being empathetic, understanding, and considerate of others, so I always am willing to hear other's ideas and feelings on things.
+2. I will give it my all at all times and try to come up with good ideas and be always open to new ones from my team.
+3. I want to be able to help the team and not hold them back from my lack of skills in certain things and be able to show my skills in others, and support them and myself in any way possible.
+4. To approach the day to day work, I will ask questions when I need help and try to give answers to those who may also need help.
 
 # Conflict Plan
 
@@ -77,11 +77,11 @@ Alexia
 5.
 
 Kat
-1.
-2.
-3.
-4.
-5.
+1. Communicate Efficiently and help each other out, leave no man behind. We're in this together.
+2. Confront them and help them to distribute the work load so that all are being held accountable for part of the project.
+3. Being considerate and understanding and help when needed. All questions are good questions. We all have our own talents. Just because you lack some that another may have, doesn't mean you don't have talents in another area that you're good at and maybe they aren't as good at those talents themselves. Everyone is different and learns differently and there is nothing wrong with that.
+4. Communicate with them about whats going on, find out why, and fix the problem together.
+5. Speak with an instructor in a calm way. There should never be a reason for conflict in a project, all that is needed is to make sure you communicate issues, to whomever it needs to be said to. Being straightforward is key a lot of times in life.
 
 # Communication Plan
 
@@ -126,13 +126,13 @@ Alexia
 7.
 
 Kat
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+1. You can contact me anywhere at anytime. I will respond as fast as I can when I get the chance.
+2. Slack, email, phone calls, zoom, discord, text, etc. All is fine with me.
+3. As often as needed. But the work still needs to be done, but that doesn't mean overwork yourselves or stress your self out. You can't do a project if you aren't mentally and physically healthy to do so. Lean on others when needed.
+4. If I fall behind, I will let my team and instructor know, and figure out what to do to fix it and understand why it happene in the first place and avoid it happening again. 
+5. Again, I don't mind being contacted at any time. Just be understanding if I can't respond back immediately.
+6. Talk to everyone and finding out their opinions and feelings on things and being open and understanding to all.
+7. Again, no question is a bad question. All questions and ideas are important and welcome at all times.
 
 # Work Plan
 
@@ -158,8 +158,8 @@ Alexia
 
 
 Kat
-1.
-2.
+1. Have open communication and assign things as fair as possible, relying on everyone's specific strong suites. 
+2. Lean on each other when needed and give it your all no matter what. And always remember we're all learning, and communicate as much as possible, because we will all need each other, wether we like it or not.
 
 
 # Git Questions
